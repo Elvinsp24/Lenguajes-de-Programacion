@@ -34,6 +34,11 @@
 <booleano>::-<true>|<false>
 
 <flotante>::-<signo><digito>' . '<digito>
+  
+<caracter>::-' ! '|' @ '|' % '|' & '|' * '|' ( '|' ) '|' { '|' _ '|' } '|' [ '|' ] '|' : '|' ; '|' < '|' > '|' ? '
+
+<mayusculas>|<minusculas>
+
 
 
 
